@@ -1,0 +1,18 @@
+{
+  "name": "jsdoc_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsdoc": "^3.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [
+    "jsdoc"
+  ],
+  "author": "Pavel <spawnmetal666@gmail.com>",
+  "license": "ISC"
+}
